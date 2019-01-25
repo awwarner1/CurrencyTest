@@ -1,0 +1,11 @@
+C:\Users\a\Documents\GitHub\CurrencyTest\bin\Debug\netcoreapp2.1\CurrencyTest.deps.json
+C:\Users\a\Documents\GitHub\CurrencyTest\bin\Debug\netcoreapp2.1\CurrencyTest.runtimeconfig.json
+C:\Users\a\Documents\GitHub\CurrencyTest\bin\Debug\netcoreapp2.1\CurrencyTest.runtimeconfig.dev.json
+C:\Users\a\Documents\GitHub\CurrencyTest\bin\Debug\netcoreapp2.1\CurrencyTest.dll
+C:\Users\a\Documents\GitHub\CurrencyTest\bin\Debug\netcoreapp2.1\CurrencyTest.pdb
+C:\Users\a\Documents\GitHub\CurrencyTest\obj\Debug\netcoreapp2.1\CurrencyTest.csprojAssemblyReference.cache
+C:\Users\a\Documents\GitHub\CurrencyTest\obj\Debug\netcoreapp2.1\CurrencyTest.csproj.CoreCompileInputs.cache
+C:\Users\a\Documents\GitHub\CurrencyTest\obj\Debug\netcoreapp2.1\CurrencyTest.AssemblyInfoInputs.cache
+C:\Users\a\Documents\GitHub\CurrencyTest\obj\Debug\netcoreapp2.1\CurrencyTest.AssemblyInfo.cs
+C:\Users\a\Documents\GitHub\CurrencyTest\obj\Debug\netcoreapp2.1\CurrencyTest.dll
+C:\Users\a\Documents\GitHub\CurrencyTest\obj\Debug\netcoreapp2.1\CurrencyTest.pdb
