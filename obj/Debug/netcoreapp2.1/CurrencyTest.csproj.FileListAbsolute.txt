@@ -9,3 +9,6 @@ C:\Users\a\Documents\GitHub\CurrencyTest\obj\Debug\netcoreapp2.1\CurrencyTest.As
 C:\Users\a\Documents\GitHub\CurrencyTest\obj\Debug\netcoreapp2.1\CurrencyTest.AssemblyInfo.cs
 C:\Users\a\Documents\GitHub\CurrencyTest\obj\Debug\netcoreapp2.1\CurrencyTest.dll
 C:\Users\a\Documents\GitHub\CurrencyTest\obj\Debug\netcoreapp2.1\CurrencyTest.pdb
+C:\Users\a\Documents\GitHub\CurrencyTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\a\Documents\GitHub\CurrencyTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\a\Documents\GitHub\CurrencyTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll

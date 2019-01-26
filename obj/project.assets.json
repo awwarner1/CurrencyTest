@@ -5747,7 +5747,7 @@
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
-      "Nunit",
+      "Nunit >= 3.11.0",
       "Nunit3TestAdapter >= 3.12.0"
     ]
   },
@@ -5803,7 +5803,7 @@
           },
           "Nunit": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[3.11.0, )"
           },
           "Nunit3TestAdapter": {
             "target": "Package",
